@@ -1,0 +1,100 @@
+2024-10-28 13:48:37 Produced message on topic sealing-planning with value of {"index": 0, "order_id": 1, "product": "A", "quantity": 42, "priority": 1}
+
+2024-10-28 13:48:39 Produced message on topic sealing-planning with value of {"index": 1, "order_id": 2, "product": "B", "quantity": 11, "priority": 2}
+
+2024-10-28 13:48:41 Produced message on topic sealing-planning with value of {"index": 2, "order_id": 3, "product": "B", "quantity": 19, "priority": 3}
+
+2024-10-28 13:48:43 Produced message on topic sealing-planning with value of {"index": 3, "order_id": 4, "product": "A", "quantity": 42, "priority": 1}
+
+2024-10-28 13:48:45 Produced message on topic sealing-planning with value of {"index": 4, "order_id": 5, "product": "B", "quantity": 41, "priority": 2}
+
+2024-10-28 13:48:47 Produced message on topic sealing-planning with value of {"index": 5, "order_id": 6, "product": "B", "quantity": 20, "priority": 3}
+
+2024-10-28 13:48:49 Produced message on topic sealing-planning with value of {"index": 6, "order_id": 7, "product": "B", "quantity": 33, "priority": 1}
+
+2024-10-28 13:48:51 Produced message on topic sealing-planning with value of {"index": 7, "order_id": 8, "product": "B", "quantity": 45, "priority": 3}
+
+2024-10-28 13:48:53 Produced message on topic sealing-planning with value of {"index": 8, "order_id": 9, "product": "B", "quantity": 21, "priority": 1}
+
+2024-10-28 13:48:55 Produced message on topic sealing-planning with value of {"index": 9, "order_id": 10, "product": "B", "quantity": 38, "priority": 2}
+
+2024-10-28 13:48:57 Produced message on topic sealing-planning with value of {"index": 10, "order_id": 11, "product": "B", "quantity": 44, "priority": 3}
+
+2024-10-28 13:48:59 Produced message on topic sealing-planning with value of {"index": 11, "order_id": 12, "product": "A", "quantity": 10, "priority": 3}
+
+2024-10-28 13:49:01 Produced message on topic sealing-planning with value of {"index": 12, "order_id": 13, "product": "A", "quantity": 10, "priority": 2}
+
+2024-10-28 13:49:03 Produced message on topic sealing-planning with value of {"index": 13, "order_id": 14, "product": "B", "quantity": 46, "priority": 1}
+
+2024-10-28 13:49:05 Produced message on topic sealing-planning with value of {"index": 14, "order_id": 15, "product": "A", "quantity": 15, "priority": 2}
+
+2024-10-28 13:49:07 Produced message on topic sealing-planning with value of {"index": 15, "order_id": 16, "product": "A", "quantity": 48, "priority": 2}
+
+2024-10-28 13:49:09 Produced message on topic sealing-planning with value of {"index": 16, "order_id": 17, "product": "A", "quantity": 27, "priority": 1}
+
+2024-10-28 13:49:11 Produced message on topic sealing-planning with value of {"index": 17, "order_id": 18, "product": "A", "quantity": 25, "priority": 3}
+
+2024-10-28 13:49:13 Produced message on topic sealing-planning with value of {"index": 18, "order_id": 19, "product": "A", "quantity": 14, "priority": 3}
+
+2024-10-28 13:49:15 Produced message on topic sealing-planning with value of {"index": 19, "order_id": 20, "product": "B", "quantity": 41, "priority": 3}
+
+2024-10-28 13:49:17 Produced message on topic sealing-planning with value of {"index": 20, "order_id": 21, "product": "A", "quantity": 11, "priority": 3}
+
+2024-10-28 13:49:19 Produced message on topic sealing-planning with value of {"index": 21, "order_id": 22, "product": "B", "quantity": 11, "priority": 2}
+
+2024-10-28 13:49:21 Produced message on topic sealing-planning with value of {"index": 22, "order_id": 23, "product": "B", "quantity": 49, "priority": 3}
+
+2024-10-28 13:49:23 Produced message on topic sealing-planning with value of {"index": 23, "order_id": 24, "product": "A", "quantity": 45, "priority": 3}
+
+2024-10-28 13:49:25 Produced message on topic sealing-planning with value of {"index": 24, "order_id": 25, "product": "A", "quantity": 48, "priority": 3}
+
+2024-10-28 13:49:27 Produced message on topic sealing-planning with value of {"index": 25, "order_id": 26, "product": "B", "quantity": 21, "priority": 3}
+
+2024-10-28 13:49:29 Produced message on topic sealing-planning with value of {"index": 26, "order_id": 27, "product": "B", "quantity": 28, "priority": 3}
+
+2024-10-28 13:49:31 Produced message on topic sealing-planning with value of {"index": 27, "order_id": 28, "product": "B", "quantity": 37, "priority": 1}
+
+2024-10-28 13:49:33 Produced message on topic sealing-planning with value of {"index": 28, "order_id": 29, "product": "B", "quantity": 10, "priority": 2}
+
+2024-10-28 13:49:35 Produced message on topic sealing-planning with value of {"index": 29, "order_id": 30, "product": "A", "quantity": 24, "priority": 3}
+
+2024-10-28 13:49:37 Produced message on topic sealing-planning with value of {"index": 30, "order_id": 31, "product": "B", "quantity": 45, "priority": 3}
+
+2024-10-28 13:49:39 Produced message on topic sealing-planning with value of {"index": 31, "order_id": 32, "product": "A", "quantity": 22, "priority": 2}
+
+2024-10-28 13:49:41 Produced message on topic sealing-planning with value of {"index": 32, "order_id": 33, "product": "B", "quantity": 30, "priority": 3}
+
+2024-10-28 13:49:43 Produced message on topic sealing-planning with value of {"index": 33, "order_id": 34, "product": "A", "quantity": 21, "priority": 2}
+
+2024-10-28 13:49:45 Produced message on topic sealing-planning with value of {"index": 34, "order_id": 35, "product": "B", "quantity": 14, "priority": 1}
+
+2024-10-28 13:49:47 Produced message on topic sealing-planning with value of {"index": 35, "order_id": 36, "product": "B", "quantity": 16, "priority": 3}
+
+2024-10-28 13:49:49 Produced message on topic sealing-planning with value of {"index": 36, "order_id": 37, "product": "A", "quantity": 14, "priority": 3}
+
+2024-10-28 13:49:51 Produced message on topic sealing-planning with value of {"index": 37, "order_id": 38, "product": "B", "quantity": 13, "priority": 1}
+
+2024-10-28 13:49:53 Produced message on topic sealing-planning with value of {"index": 38, "order_id": 39, "product": "B", "quantity": 22, "priority": 3}
+
+2024-10-28 13:49:55 Produced message on topic sealing-planning with value of {"index": 39, "order_id": 40, "product": "A", "quantity": 46, "priority": 1}
+
+2024-10-28 13:49:57 Produced message on topic sealing-planning with value of {"index": 40, "order_id": 41, "product": "A", "quantity": 24, "priority": 1}
+
+2024-10-28 13:49:59 Produced message on topic sealing-planning with value of {"index": 41, "order_id": 42, "product": "B", "quantity": 25, "priority": 3}
+
+2024-10-28 13:50:01 Produced message on topic sealing-planning with value of {"index": 42, "order_id": 43, "product": "A", "quantity": 30, "priority": 1}
+
+2024-10-28 13:50:03 Produced message on topic sealing-planning with value of {"index": 43, "order_id": 44, "product": "B", "quantity": 45, "priority": 3}
+
+2024-10-28 13:50:05 Produced message on topic sealing-planning with value of {"index": 44, "order_id": 45, "product": "B", "quantity": 33, "priority": 3}
+
+2024-10-28 13:50:07 Produced message on topic sealing-planning with value of {"index": 45, "order_id": 46, "product": "B", "quantity": 25, "priority": 3}
+
+2024-10-28 13:50:09 Produced message on topic sealing-planning with value of {"index": 46, "order_id": 47, "product": "B", "quantity": 23, "priority": 1}
+
+2024-10-28 13:50:11 Produced message on topic sealing-planning with value of {"index": 47, "order_id": 48, "product": "B", "quantity": 31, "priority": 1}
+
+2024-10-28 13:50:13 Produced message on topic sealing-planning with value of {"index": 48, "order_id": 49, "product": "A", "quantity": 15, "priority": 1}
+
+2024-10-28 13:50:15 Produced message on topic sealing-planning with value of {"index": 49, "order_id": 50, "product": "B", "quantity": 45, "priority": 2}
+
